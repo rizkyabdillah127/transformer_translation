@@ -1,4 +1,4 @@
-# transformer_translation
+# Transformer Translation
 Tugas Eksplorasi Transformer 
 Rizky Abdillah 122140127
 Eichal Elphindo Ginting 122140165
