@@ -1,7 +1,9 @@
 # Transformer Translation
 Tugas Eksplorasi Transformer 
 Rizky Abdillah 122140127
+
 Eichal Elphindo Ginting 122140165
+
 Dyo Dwi Carol Bukit 122140145 
 
 
