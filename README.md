@@ -1,5 +1,10 @@
 # transformer_translation
-Tugas Eksplorasi Transformer ( 122140127,  122140165,  122140145 )
+Tugas Eksplorasi Transformer 
+Rizky Abdillah 122140127
+Eichal Elphindo Ginting 122140165
+Dyo Dwi Carol Bukit 122140145 
+
+
 ini adalah rangkuman lengkap dari keseluruhan alur kerja proyek *Machine Translation* (Penerjemah Mesin) dari Bahasa Inggris ke Bahasa Prancis menggunakan arsitektur Transformer.
 
 Proyek ini dibagi menjadi empat tahap utama yang saling berurutan:
