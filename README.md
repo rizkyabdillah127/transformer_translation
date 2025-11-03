@@ -1,10 +1,9 @@
 # Transformer Translation
 Tugas Eksplorasi Transformer 
-Rizky Abdillah 122140127
 
-Eichal Elphindo Ginting 122140165
-
-Dyo Dwi Carol Bukit 122140145 
+* Rizky Abdillah 122140127
+* Eichal Elphindo Ginting 122140165
+* Dyo Dwi Carol Bukit 122140145 
 
 
 ini adalah rangkuman lengkap dari keseluruhan alur kerja proyek *Machine Translation* (Penerjemah Mesin) dari Bahasa Inggris ke Bahasa Prancis menggunakan arsitektur Transformer.
